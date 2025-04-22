@@ -13,6 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -87,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745278860175</updated>
       <workItem from="1745278861497" duration="1000" />
-      <workItem from="1745284083252" duration="13686000" />
+      <workItem from="1745284083252" duration="18085000" />
     </task>
     <servers />
   </component>

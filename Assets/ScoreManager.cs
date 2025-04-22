@@ -1,20 +1,16 @@
 using UnityEngine;
-using TMPro; 
+using TMPro;
 
 public class ScoreManager : MonoBehaviour
 {
     public static ScoreManager instance;
 
     public int currentScore = 0;
-    public TMP_Text scoreText; // ถ้าใช้ TextMeshPro
-    // public Text scoreText; // ถ้าใช้ Text ธรรมดา
+    public TMP_Text scoreText;
 
     private void Awake()
     {
-        if (instance == null)
-        {
-            instance = this;
-        }
+        instance = this;
     }
 
     public void AddScore(int amount)
